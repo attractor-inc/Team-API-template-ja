@@ -1,45 +1,50 @@
-# Team API template
+# チームAPIテンプレート
 
-A template for defining a Team API. Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@matthewskelton](https://github.com/matthewskelton) and Manuel Pais [@manupaisable](https://github.com/manupaisable).
+チームAPIを定義するためのテンプレートです。
+Matthew Skelton [@matthewskelton](https://github.com/matthewskelton)とManuel Pais [@manupaisable](https://github.com/manupaisable)執筆の『チームトポロジー』のアイデアにもとづいています。
 
-> See [teamtopologies.com](https://teamtopologies.com/) for more details about Team Topologies.
+
+> チームトポロジーの詳細については[teamtopologies.com](https://teamtopologies.com/)を参照してください。
+
 
 > Copyright © 2018-2020 [Team Topologies](https://teamtopologies.com/) - Licenced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
-## Overview
+## 概要
 
-To improve the clarity of purpose for teams it can be useful to define a "Team API" for each team. Use this template to help teams think about their Team API.
+チームの目的をより明確にするために、それぞれのチームで「チームAPI」を定義すると有効です。
+このテンプレートを使うことで、チームAPIを検討に役立ててください。
 
-## How to use
+## 使い方
 
-Each team should answer the questions and fill in the details below. Remember that the answers and details will be a point-in-time snapshot of team relationships and team interactions.
+それぞれのチームは以下の質問に答えて詳細を記入してください。
+なお、回答や詳細はその時点でのチーム間の関係やインタラクションのスナップショットに過ぎないことを忘れないでください。
 
-## Team API
+## チームAPI
 
 Date:
 
-* Team name and focus:
-* Team type:
-* Part of a Platform? (y/n) Details:
-* Do we provide a service to other teams? (y/n) Details:
-* What kind of Service Level Expectations do other teams have of us?
-* Software owned and evolved by this team:
-* Versioning approaches:
-* Wiki search terms:
-* Chat tool channels: #_____________ #_____________ #_____________
-* Time of daily sync meeting:
+* チーム名/注力領域:
+* チームタイプ:
+* プラットフォームの一部か？ (y/n) 詳細:
+* ほかのチームにサービスを提供しているか？ (y/n) 詳細:
+* ほかのチームは私たちに対してどんなサービスレベルを期待しているか？
+* このチームが所有し進化させているソフトウェア:
+* バージョニングの方法:
+* Wikiでの検索キーワード:
+* チャットツールのチャネル: #_____________ #_____________ #_____________
+* 日次の同期ミーティングの時間:
 
-> Team type: (Stream-Aligned, Enabling, Complicated Subsystem, Platform)
+> チームタイプ: (ストリームアラインド, イネイブリング, コンプリケイティッドサブシステム, プラットフォーム)
 
-### What we're currently working on
+### 現在取り組んでいること
 
-* Our services and systems:
-* Ways of working:
-* Wider cross-team or organisational improvements:
+* 私たちのサービスとシステム:
+* 働き方:
+* チーム間または組織的な改善:
 
-### Teams we currently interact with
+### 現在インタラクションのあるチーム
 
-| Team name/focus | Interaction Mode | Purpose | Duration |
+| チーム名/注力領域 | インタラクションモード | 目的 | 期間 |
 | --------------- | ---------------- | ------- | -------- |
 | .               |                  |         |          |
 | .               |                  |         |          |
@@ -48,11 +53,11 @@ Date:
 | .               |                  |         |          |
 | .               |                  |         |          |
 
-> Team Interaction Modes: (Collaboration, X-as-a-Service, Facilitating)
+> チームインタラクションモード: (コラボレーション, X-as-a-Service, ファシリテーション)
 
-### Teams we expect to interact with soon
+### 直近でインタラクションがありそうなチーム
 
-| Team name/focus | Interaction Mode | Purpose | Duration |
+| チーム名/注力領域 | インタラクションモード | 目的 | 期間 |
 | --------------- | ---------------- | ------- | -------- |
 | .               |                  |         |          |
 | .               |                  |         |          |
@@ -60,4 +65,3 @@ Date:
 | .               |                  |         |          |
 | .               |                  |         |          |
 | .               |                  |         |          |
-
